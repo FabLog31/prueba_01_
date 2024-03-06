@@ -1,4 +1,3 @@
 prueba_01_
-Hola Mundo
-ESTA ES PURA COSA DIFICIL 
+Hola Mundo 
 Linea Escrita desde GitHub.com
