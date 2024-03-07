@@ -1,4 +1,9 @@
-# Titulo de nivel 1
+# ¿QUE DEBE TENER UN README?
+
+- Titulo de nivel 1
+- Descripción
+- Autor
+
 ----------
 ## Subtitulo de nivel 2
 ### Subtitulo de nivel 3
